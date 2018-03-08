@@ -1,0 +1,16 @@
+{
+  "name": "absentcalculator",
+  "version": "1.0.0",
+  "description": "This program is a solution of licaifan.com interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "licaifan",
+    "interviewQuestion",
+    "上课问题"
+  ],
+  "author": "WayneGan",
+  "license": "ISC"
+}
